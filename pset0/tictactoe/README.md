@@ -3,6 +3,7 @@
 This project is part of **CS50’s Introduction to Artificial Intelligence with Python**, specifically for **Problem Set 0: Tic-Tac-Toe**. The project implements a graphical Tic-Tac-Toe game where a user can play against an AI opponent. The AI uses the **Minimax algorithm** to always make the optimal move, ensuring that it never loses.
 
 ---
+![Game Menu](Pictures/2.png) ![Gameplay](Pictures/1.png)
 
 ## Project Overview
 
